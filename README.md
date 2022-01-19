@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lancerstup
 - 👀 I’m interested in reading novels, learning new things, watching basketball, calm songs.
 - 🌱 I'm pretty confident on my vanilla javascript with the basics, I've also created few important project with just that so I moved on to learning a framework.
+- As you can see I'm not that active this past few weeks on creating challenges project due to taking a React course.
 - 📫 How to reach me| email:lancerstup@gmail.com
 
 <!---
