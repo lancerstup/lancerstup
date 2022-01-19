@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lancerstup
 - 👀 I’m interested in reading novels, learning new things, watching basketball, calm songs.
-- 🌱 I’m currently practicing SCSS then will move on to JS then learn new other languanges along the way.
+- 🌱 I'm pretty confident on my vanilla javascript with the basics, I've also created few important project with just that so I moved on to learning a framework.
 - 📫 How to reach me| email:lancerstup@gmail.com
 
 <!---
